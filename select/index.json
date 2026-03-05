@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "半月の人魚姫",
+  "base_artist": "Aivy",
+  "createdAt": "2026-03-05T17:01:33.102989Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "半月の人魚姫",
+      "artist": "Aivy",
+      "has_synced": false,
+      "path": "select/pl_01_半月の人魚姫_Aivy.txt"
+    }
+  ]
+}
